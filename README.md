@@ -65,6 +65,6 @@ O projeto utilizou as seguintes tecnologias principais.
 
 ---
 
-Ou você pode baixar no próprio GitHub [clicando aqui](https://github.com/robertoregis/projetoagenda). Lá clique no botão Code.
+Ou você pode baixar no próprio GitHub [clicando aqui](https://github.com/robertoregis/projetoagenda). Clique no botão Code.
 
 ### Created by Roberto Regis 😆
