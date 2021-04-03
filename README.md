@@ -22,15 +22,15 @@ O **projeto agenda** foi o primeiro projeto feito no curso que fiz na Udemy do p
 
 O projeto utilizou as seguintes tecnologias principais.
 - [Express](https://expressjs.com/pt-br/)
-O Express é um framework Javascript para o backend. Com ele aprendi a criar o servidor e a utilizar várias bibliotecas no projeto.
+é um framework Javascript para o backend. Com ele aprendi a criar o servidor e a utilizar várias bibliotecas no projeto.
 - [Mongoose](https://mongoosejs.com/)
-O Mongoose é uma biblioteca do NodeJs que nos permite conectar o backend ao banco de dados MongoDB, que é o utilizado no projeto. Aprendi a criar schemas e models.
+é uma biblioteca do NodeJs que nos permite conectar o backend ao banco de dados MongoDB, que é o utilizado no projeto. Aprendi a criar schemas e models.
 - [Bootstrap](https://getbootstrap.com/)
-O Bootstrap é um framework CSS que nos permite criar estilos já prontos.
+é um framework CSS que nos permite criar estilos já prontos.
 - [Webpack](https://webpack.js.org/)
-O Webpack é um empacotador de módulos para aplicações javascript. Ele permite trabalher em vários módulos ao invés de trabalhar em apenas um. Isso facilita o trabalho em equipe.
+é um empacotador de módulos para aplicações javascript. Ele permite trabalher em vários módulos ao invés de trabalhar em apenas um. Isso facilita o trabalho em equipe.
 - [Babel](https://babeljs.io/)
-O Babel é um transcompilador JavaScript gratuito e de código aberto usado principalmente para converter o código ECMAScript 2015+ em uma versão compatível com versões anteriores do JavaScript que pode ser executada por mecanismos JavaScript mais antigos
+é um transcompilador JavaScript gratuito e de código aberto usado principalmente para converter o código ECMAScript 2015+ em uma versão compatível com versões anteriores do JavaScript que pode ser executada por mecanismos JavaScript mais antigos
 
 # 🔧 Demais bibliotecas
 - [Connect-mongo](https://docs.mongodb.com/manual/reference/method/connect/)
