@@ -8,7 +8,8 @@
 # 🔍 Indíce
 - [Projeto Agenda](#-projeto-agenda)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- Como baixar o projeto
+- [Demais tecnologias](#demais-tecnologias)
+- [Como baixar o projeto](#como-baixar-o-projeto)
 
 # 📕 Projeto Agenda
 
