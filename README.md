@@ -1,8 +1,4 @@
 
-<h1 align=center>
-    <img src="https://ik.imagekit.io/bjlfhoj36uy/agenda_eCiCDE-yM.jpg">
-</h1>
-
 <h1>
     <img src="https://ik.imagekit.io/bjlfhoj36uy/agenda2_TrRt2FJFl.jpg">
 </h1>
